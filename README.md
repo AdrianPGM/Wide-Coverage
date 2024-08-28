@@ -13,5 +13,5 @@
  
 
 <div align="center">
-    <img width="500px" alt="layout" src="https://github.com/AdrianPGM/FrontEnd-Projeto-2/blob/master/Wide-coverage-location/assets/layout.png?raw=true"/>
+    <img width="500px" alt="layout" src="./assets/layout.png"/>
 <div>
